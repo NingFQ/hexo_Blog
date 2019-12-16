@@ -4,12 +4,12 @@
 
 # Site
 title: NingFangQiang
-subtitle: '从零开始'
-description: '今日默书，方恨，千卷诗书不能全记'
+subtitle: '我欲成仙，快乐齐天'
+description: ''
 keywords:
 author: NingFQ
-language: zh_CN
-timezone: Beijing
+language: zh-CN
+timezone: Asia/Shanghai 
 
 # URL
 ## If your site is put in a subdirectory, set url as 'http://yoursite.com/child' and root as '/child/'
