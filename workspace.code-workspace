@@ -1,0 +1,21 @@
+{
+	"folders": [
+		{
+			"name": "hexo_Blog",
+			"path": "."
+		},
+		{
+			"name": "vue_demo",
+			"path": "../vue_demo"
+		},
+		{
+			"name": "TOKA",
+			"path": "../TOKA"
+		},
+		{
+			"name": "outer-chain",
+			"path": "../ones/fontend/outer-chain"
+		}
+	],
+	"settings": {}
+}
